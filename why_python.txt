@@ -1,5 +1,6 @@
 Why Python?
 
+![why py img](images/why-4129050_1280.jpg)
 Python has been ranking as the number one programming language in the world according to [TIOBE Index](https://www.tiobe.com/tiobe-index/). 
 TIOBE organisation regularly ranks programming languages according to their popularity and other indices. You can look at the current ranking of programming languages [here](https://www.tiobe.com/tiobe-index/).
 
