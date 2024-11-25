@@ -7,3 +7,17 @@ developing web applications, scripting, data science, etc.
 This tutorial is written for those who want to begin their Python journey. You may be using Python as your first programming language or you might have used other languages 
 and want to learn Python. You will be guided to understand the basic to advanced features of Python. When you are done with this tutorial, you will become familiar with Python’s 
 elegant style and you will be able to read and write Python modules and programs. This will kickstart your journey to becoming a world class Software Engineer.
+
+Why Python?
+
+You might be asking why should I learn Python? This question becomes important especially because there are many programming languages out there. Read on to see our attempt to answer this question.
+
+![why py img](images/why-4129050_1280.jpg)
+Python has been ranking as the number one programming language in the world according to [TIOBE Index](https://www.tiobe.com/tiobe-index/). 
+TIOBE organisation regularly ranks programming languages according to their popularity and other indices. You can look at the current ranking of programming languages [here](https://www.tiobe.com/tiobe-index/).
+
+Python is an efficient programming language with simple syntax. Python codes are easy to read, understand and very scalable as compared to other languages. 
+It can be used to develop web applications, build games, analyse and visualise data. Many programmers and non-programmers alike use python in automating processes. 
+It can also be used in schools by teachers and students for learning subjects such as mathematics, sciences and economics.
+
+Welcome on board as you learn python on the JournPy platform!
