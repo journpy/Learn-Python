@@ -1,5 +1,7 @@
 Why Python?
 
+You might be asking why should I learn Python? This question becomes important especially because there are many programming languages out there. Read on to see our attempt to answer this question.
+
 ![why py img](images/why-4129050_1280.jpg)
 Python has been ranking as the number one programming language in the world according to [TIOBE Index](https://www.tiobe.com/tiobe-index/). 
 TIOBE organisation regularly ranks programming languages according to their popularity and other indices. You can look at the current ranking of programming languages [here](https://www.tiobe.com/tiobe-index/).
