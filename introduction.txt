@@ -1,0 +1,9 @@
+Introduction
+
+Python is an easy to learn programming language with very robust capabilities. It is not common to find a programming language that is very powerful and yet simple. 
+Python is an interpreted object-oriented programming language that incorporates dynamic typing and an easy syntax. This makes it the language of chcoice for 
+developing web applications, scripting, data science, etc. 
+
+This tutorial is written for those who want to begin their Python journey. You may be using Python as your first programming language or you might have used other languages 
+and want to learn Python. You will be guided to understand the basic to advanced features of Python. When you are done with this tutorial, you will become familiar with Python’s 
+elegant style and you will be able to read and write Python modules and programs. This will kickstart your journey to becoming a world class Software Engineer.
