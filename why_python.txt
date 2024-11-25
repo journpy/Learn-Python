@@ -3,6 +3,8 @@ Why Python?
 Python has been ranking as the number one programming language in the world according to [TIOBE Index](https://www.tiobe.com/tiobe-index/). 
 TIOBE organisation regularly ranks programming languages according to their popularity and other indices. You can look at the current ranking of programming languages [here](https://www.tiobe.com/tiobe-index/).
 
-Python is an efficient programming language with simple syntax. Python codes are easy to read, understand and very scalable as compared to other languages. Python can be used to develop web applications, build games, analyse and visualise data. Many programmers and non-programmers alike use python in automating processes. Python can be used in schools by teachers and students for learning subjects such as mathematics, sciences and economics.
+Python is an efficient programming language with simple syntax. Python codes are easy to read, understand and very scalable as compared to other languages. 
+It can be used to develop web applications, build games, analyse and visualise data. Many programmers and non-programmers alike use python in automating processes. 
+It can also be used in schools by teachers and students for learning subjects such as mathematics, sciences and economics.
 
 Welcome on board as you learn python on the JournPy platform!
